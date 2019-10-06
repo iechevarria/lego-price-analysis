@@ -1,1 +1,5 @@
+secrets.py
+/__pycache__
+/.vscode
 /sets-brickset
+/set-inventories
